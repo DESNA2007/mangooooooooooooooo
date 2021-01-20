@@ -7,7 +7,7 @@ const Constraint=Matter.Constraint;
 var treeObj, stoneObj,groundObject, launcherObject;
 var mango1,mango2,mango3,mango4,mango5;
 var world,boy;
-var launchingForce=100;
+
 
 function preload(){
 	boy=loadImage("images/boy.png");
